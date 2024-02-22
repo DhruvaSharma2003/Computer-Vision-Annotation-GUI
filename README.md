@@ -1,0 +1,1 @@
+This code offers a GUI Tool for Annotation in multiple custom colors on a selected Iamge. Annotations include straight lines, rectangles, circles and text. This tool can also be used to convert BGR image into RGB, Binary and Grayscale image and vice versa. Brightness and Contrast of the Image can also be varied through this tool.
